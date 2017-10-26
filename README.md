@@ -1,2 +1,11 @@
 # color-scheme-pycharm
-github code style for pycharm
+Github code style for pycharm 
+ 
+---
+HOW TO USE?  
+pycharm-->File-->settings-->color scheme-->import scheme  
+ 
+---
+screenshot  
+
+
